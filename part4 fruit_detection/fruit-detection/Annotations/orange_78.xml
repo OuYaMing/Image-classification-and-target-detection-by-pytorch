@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>orange_78.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\orange_78.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>615</width>
+		<height>297</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>14</ymin>
+			<xmax>562</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

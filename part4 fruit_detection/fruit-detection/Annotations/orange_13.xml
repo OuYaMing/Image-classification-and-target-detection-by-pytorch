@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>orange_13.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\orange_13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>269</width>
+		<height>249</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>11</ymin>
+			<xmax>253</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>
